@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header h1{
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 10px;
+}
+body{
+    background-image: url(../img/fondo3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#datos{
+    background: -moz-linear-gradient(left bottom, rgb(208, 206, 221) 40%, rgb(164, 158, 204) 70%, rgb(108, 108, 180) 85%);
+	background: -ms-linear-gradient(left bottom, rgb(208, 206, 221) 40%, rgb(164, 158, 204) 70%, rgb(108, 108, 180) 85%);
+	background: -o-linear-gradient(left bottom, rgb(208, 206, 221) 40%, rgb(164, 158, 204) 70%, rgb(108, 108, 180) 85%);
+	background: -webkit-linear-gradient(left bottom, rgb(208, 206, 221) 40%, rgb(164, 158, 204) 70%, rgb(108, 108, 180) 85%);
+	background: linear-gradient(left bottom, rgb(208, 206, 221) 40%, rgb(164, 158, 204) 70%, rgb(108, 108, 180) 85%);
+	margin: 0 auto;
+	max-width: 960px;
+}
